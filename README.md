@@ -5,8 +5,8 @@
 <h5>I'm fascinated by technology and I love programming different solutions, I'm very interested in Web development and in learning new things.</h5>
 
 <div>
-<p>&nbsp;<img height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=nathanbalthazar&show_icons=true&locale=en" alt="nathanbalthazar" height="160"/></p>
-<p><img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nathanbalthazar&show_icons=true&locale=en&layout=compact" alt="nathanbalthazar" height="150"/></p>
+<p><img height="180em" src="https://github-readme-stats.vercel.app/api?username=nathanbalthazar&show_icons=true&locale=en" alt="nathanbalthazar"/></p>
+<p><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=nathanbalthazar&show_icons=true&locale=en&layout=compact" alt="nathanbalthazar"/></p>
 </div>
 
 <h3 align="left">Languages and Tools:</h3>

@@ -2,7 +2,7 @@
 <h1 align="center">Hi , I'm Nathan 👋</h1>
 <h3 align="left"></h3>
 
-<h5>I'm fascinated by technology and I love programming different solutions. I'm very interested in Web development and in learning new things.</h5>
+<h5>I'm fascinated by technology and I love programming different solutions. I'm very interested in Web development and learning new things.</h5>
 
 <div >
 <p><img height="160em"  align="left" src="https://github-readme-stats.vercel.app/api?username=nathanbalthazar&show_icons=true&locale=en" alt="nathanbalthazar"/></p>

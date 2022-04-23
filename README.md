@@ -9,7 +9,7 @@ My name is Nathan and I'm fascinated by technology and I am passionate about wri
 <br/>
 
 - 🔭 I’m a self-taught programmer.
-- 📚 I’m currently learning frontend web development using ReactJS and NextJS with Typescript.
+- 📚 I’m currently learning front end development using ReactJS and NextJS with Typescript.
 - 👯 I’m looking for a software development internship.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/nathanbalthazar) .
 

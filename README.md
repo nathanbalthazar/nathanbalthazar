@@ -1,6 +1,7 @@
-### <h1>Hello, my name is Nathan! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1> 
+### <h1>Hello, my name is Nathan! 
+<!--- <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1> --->
 
-<!---
+<!--- 
 <img align="right" width="350px" alt="GIF" src="https://github.com/nathanbalthazar/nathanbalthazar/blob/main/Cyberpunk%20Aesthetic.gif"/>
 <br />
 --->
